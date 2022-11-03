@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sophie
+- 👀 I’m a full stack dev with a passion for comprehensive usability/ accessibility
+- 🌱 I’m currently studying for the CPACC exam and adapting old projects based on WCAG standards
+- 📫 How to reach me: connect with me on [my linkedIn profile](https://www.linkedin.com/in/sophie-willson-b607941bb/)
